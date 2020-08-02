@@ -8,7 +8,7 @@ This is a web app which allows user to navigate bus routes and estimated arrival
   * View stops in a map view
   * Favorite a stop
   * Make comments to stop
-1. Admin
+2. Admin
   * All normal user functions
   * Flush bus data from public APIs
   * Import route data using CSV
